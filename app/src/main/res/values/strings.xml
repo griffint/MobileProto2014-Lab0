@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FIrst mobile proto app</string>
+    <string name="hello_world">Mobile Proto rocks!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
